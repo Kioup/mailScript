@@ -60,13 +60,6 @@ session_start();
     <textarea name="message" id="message" placeholder="Enter your message here..."></textarea>
     <input type="submit" value="Send the e-mail">
 </form>
-<!--<span class="error">-->
-<!--    --><?php
-//    if (!empty($_SESSION['errors'])){
-//        echo $_SESSION['errors'];
-//    }
-//    ?>
-<!--</span>-->
 <div class="footer">
     Created by alakay02 | <a href="https://github.com/alakay02">Github</a>
 </div>
