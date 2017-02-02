@@ -5,7 +5,7 @@ You case use it free and for what you want, you can also Fork and send Pull requ
 
 #How to use
 It's simple, you only need this two files to perform the mailScript.
-- mailForm.php 
+- mailForm.html 
 - mailScript.php
 
 mailForm.php is your formular, you can inculde it to your project but you can also change what you want if you know what you are doing with **input** or **textarea** 'name' attribute.
@@ -29,3 +29,4 @@ The only thing you have to modify to make all this working is to change somes va
 
 
 > It's my first presonnal scrip repository so be understanding :)
+> Need information or something else ? Contact me on contact@baptiste-dumortier.fr
