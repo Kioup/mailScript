@@ -29,10 +29,10 @@
 // If nothing is incorrect, the mail is send.
   if(empty($errors)) {
     mail($to,$subject,$message,$headers);
-    header('Location: mailForm.php');
+    header('Location: mailForm.html');
     session_destroy();
   } else {
     $_SESSION['errors'] = $errors;
-    header('Location: mailForm.php');
+    header('Location: mailForm.html');
   }
 ?>
